@@ -1,0 +1,5 @@
+# standard gitignore for hdl
+*.vcd
+*.log
+*.bak
+work/
