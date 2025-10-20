@@ -3,9 +3,11 @@ Here I showcase the work I have done for hdl in my uni labs or for engineering t
 
 ## Current projects
 - Shift register 
-- Electronic Lock 
+- Electronic Lock
+- Program Counter
 
 ## Future projects
+- Register File
 - Arithmetic Logic Unit
 - Small microprocessor for Team Bath Drones
 
