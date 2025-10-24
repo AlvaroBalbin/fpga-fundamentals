@@ -26,4 +26,4 @@ All other files were provided as part of the lab environment.
 
 ## Demo Video
 
-[![ALU Demonstration](https://img.youtube.com/vi/pAdxFBZjDvc/maxresdefault.jpg)](https://youtu.be/pAdxFBZjDvc)
+[![ALU Demonstration](https://img.youtube.com/vi/pAdxFBZjDvc/hqdefault.jpg)](https://youtu.be/pAdxFBZjDvc)
