@@ -24,5 +24,6 @@ All other files were provided as part of the lab environment.
 | `AluFpgaTop.sv` | FPGA top-level module for DE1-SoC |
 | `README.md` | Project documentation |
 
-## Demonstration
+## Demo Video
 
+[![ALU Demonstration](https://img.youtube.com/vi/pAdxFBZjDvc/maxresdefault.jpg)](https://youtu.be/pAdxFBZjDvc)
