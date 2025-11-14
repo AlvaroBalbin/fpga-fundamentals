@@ -34,6 +34,11 @@ A secret value is stored from switches, a separate guess is entered, and the sys
 4. Press KEY1 to reveal or hide the stored secret on HEX1.  
 5. If the guess matches the secret, LEDR[9:3] shows a timed animation.
 
+## Demonstration
+Click the thumbnail below to watch the demonstration video on YouTube:
+[![Demo Video](https://i.ytimg.com/vi/tVx_ap2fxnU/hqdefault.jpg)](https://youtu.be/tVx_ap2fxnU)
+
+
 ## Credits
 All SystemVerilog code, design work, debugging, and hardware implementation were created by Alvaro Balbin.  
 ChatGPT assisted only with writing and formatting this README.  
