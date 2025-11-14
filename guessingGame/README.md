@@ -36,6 +36,7 @@ A secret value is stored from switches, a separate guess is entered, and the sys
 
 ## Demonstration
 Click the thumbnail below to watch the demonstration video on YouTube:
+
 [![Demo Video](https://i.ytimg.com/vi/tVx_ap2fxnU/hqdefault.jpg)](https://youtu.be/tVx_ap2fxnU)
 
 
